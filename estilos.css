@@ -1,0 +1,41 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+
+}
+.container{
+    display: flex;
+height: 1250px;
+width: 1250px;
+background-color: rgb(4, 52, 107);
+text-align: center;
+
+}
+
+.box1{
+    height: 350px;
+    width: 350px;
+    background-color: lightblue;
+    padding: 20px;
+    
+
+}
+
+.box2{
+    height: 350px;
+    width: 350px;
+    background-color: cornflowerblue;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.box3{
+    height: 350px;
+    width: 250px;
+    background-color: rgb(83, 151, 160);
+    margin-left: 50px;
+    padding: 5px;
+
+}
